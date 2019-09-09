@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "nama": "SAYUTI",
+      "ttl": "Serang, 3 Mei 1985",
+      "regist_code": "5/176/AS.02.03/VII/2019",
+      "company": "PT. SUMIRA PARMA"
+    },
+    {
+      "id": "2",
+      "nama": "KENTUT HANDOYO SENO",
+      "ttl": "Salatiga, 22 Maret 1963",
+      "regist_code": "5/849/AS.02.03/VII/2019",
+      "company": "PT. SUMIRA PARMA"
+    },
+    {
+      "id": "3",
+      "nama": "IRFAN WIRANATA",
+      "ttl": "Cilegon, 15 Desember 1992",
+      "regist_code": "5/1074/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "4",
+      "nama": "HUDARI",
+      "ttl": "Serang, 04 Juli 1984",
+      "regist_code": "5/1054/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "5",
+      "nama": "APRIYANTO EKO PRATOMO",
+      "ttl": "Karang Anyar, 04 April 1990",
+      "regist_code": "5/1068/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "6",
+      "nama": "SUHANDA",
+      "ttl": "Serang, 11 September 1982",
+      "regist_code": "5/1055/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "7",
+      "nama": "CECEP AJAT SUDRAJAT",
+      "ttl": "Cianjur, 27 November 1980",
+      "regist_code": "5/1062/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "8",
+      "nama": "HAZMI",
+      "ttl": "Sinar Banten, 07 Mei 1988",
+      "regist_code": "5/1063/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "9",
+      "nama": "MUSTOFID",
+      "ttl": "Cilegon, 10 Mei 1990",
+      "regist_code": "5/1059/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "10",
+      "nama": "MUHSIN",
+      "ttl": "Serang, 06 Februari 1980",
+      "regist_code": "5/1056/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "11",
+      "nama": "MIFTARUDIN",
+      "ttl": "Serang, 12 Agustus 1990",
+      "regist_code": "5/1073/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "12",
+      "nama": "TAUFIK",
+      "ttl": "Serang, 19 Januari 1983",
+      "regist_code": "5/1061/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "13",
+      "nama": "MUT'AM",
+      "ttl": "Serang, 30 Mei 1980",
+      "regist_code": "5/1065/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "14",
+      "nama": "ISWANTO",
+      "ttl": "Serang, 10 Agustus 1989",
+      "regist_code": "5/1071/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "15",
+      "nama": "HASUNI",
+      "ttl": "Pulo Merak, 27 Desember 1988",
+      "regist_code": "5/1072/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "16",
+      "nama": "SHANDY PRATAMA",
+      "ttl": "Cilegon, 27 September 1992",
+      "regist_code": "5/1057/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "17",
+      "nama": "REJA AFRIYADI",
+      "ttl": "Serang, 12 November 1992",
+      "regist_code": "5/1066/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "18",
+      "nama": "HERUNAS",
+      "ttl": "Serang, 02 Sepetember 1979",
+      "regist_code": "5/1069/AS.02.03/IX/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "19",
+      "nama": "SURYANTO",
+      "ttl": "Cilegon, 10 April 1981",
+      "regist_code": "5/174/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    },
+    {
+      "id": "20",
+      "nama": "AGUNG SISWANTO",
+      "ttl": "Cilegon, 17 Oktober 1980",
+      "regist_code": "5/171/AS.02.03/VII/2019",
+      "company": "PT. TEREOS FKS INDONESIA"
+    }
+  ]
+}
